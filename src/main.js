@@ -47,7 +47,7 @@ app.innerHTML = `
       <div class="hero-inner reveal">
         <p class="eyebrow">Psychologische Psychotherapie · München</p>
         <h1>Raum für das, was gerade schwer ist.</h1>
-        <p class="hero-text">Eine ruhige Praxis für Erwachsene, die Stress, Angst, Erschöpfung oder Beziehungsthemen nicht länger alleine sortieren möchten.</p>
+        <p class="hero-text">Eine Praxis in München für Menschen, die merken, dass etwas nicht mehr stimmt — und die damit nicht länger alleine sein möchten.</p>
         <a class="button light" href="#kontakt">Erstgespräch anfragen</a>
       </div>
     </section>
@@ -60,8 +60,8 @@ app.innerHTML = `
       <div class="welcome-copy">
         <p class="eyebrow muted">Schön, dass Sie da sind</p>
         <h2>Manchmal braucht es zuerst keinen Plan. Nur einen Ort, an dem man anfangen kann.</h2>
-        <div class="botanical-mark" aria-hidden="true">⌇</div>
-        <p>In meiner Arbeit geht es nicht darum, Menschen schneller wieder „funktionieren“ zu lassen. Es geht darum, Belastungen verständlich zu machen, Handlungsspielräume zurückzugewinnen und wieder freundlicher mit sich selbst in Kontakt zu kommen.</p>
+        <div class="botanical-mark" aria-hidden="true"></div>
+        <p>In meiner Arbeit geht es nicht darum, Menschen schneller wieder „funktionieren” zu lassen. Sondern darum, Belastungen verständlich zu machen, mehr Handlungsspielraum zu gewinnen — und sich selbst dabei etwas freundlicher zu begegnen.</p>
       </div>
     </section>
 

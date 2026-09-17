@@ -20,6 +20,14 @@ Aktuell läuft der Dev-Server hier auf:
 npm run build
 ```
 
+## GitHub Pages
+
+Die Seite ist so vorbereitet, dass GitHub Pages sie direkt aus `main` / repo root ausliefern kann. Deshalb lädt `index.html` die Dateien relativ (`./src/main.js`, `./src/styles.css`) und es gibt eine `.nojekyll`.
+
+Live-URL:
+
+- https://pleonastic6.github.io/WebsiteMaria/
+
 ## Inhalte ersetzen vor Livegang
 
 - Name, Ort, Telefon, E-Mail
